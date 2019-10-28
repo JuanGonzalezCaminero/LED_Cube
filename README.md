@@ -9,4 +9,4 @@ A 4x4x4 LED cube I built after seeing something similar on YouTube. Uses an Ardu
  ![Img_6](https://github.com/JuanGonzalezCaminero/LED_Cube/tree/master/Images/IMG_20191027_182736168.jpg)
  ![Img_7](https://github.com/JuanGonzalezCaminero/LED_Cube/tree/master/Images/IMG_20191027_182811429.jpg)
  
- <img src="https://github.com/JuanGonzalezCaminero/LED_Cube/tree/master/Images/IMG_20191027_174906567.jpg" width="200" height="400" />
+ <img src="Images/IMG_20191027_174906567.jpg" width="200" />
